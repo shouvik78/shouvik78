@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shouvik-ghosh-61b325148 target="_blank" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shouvik-ghosh-61b325148/)
+[<img align="left" alt="shouvik-ghosh-61b325148 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shouvik-ghosh-61b325148/)
 [<img align="left" alt="shouvik78 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shouvik78/)
 [<img align="left" alt="Shouvik85483366 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Shouvik85483366)
 <br />

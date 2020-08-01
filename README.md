@@ -24,8 +24,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.blog/)
 <br /> 
 ---
-<img align="left" alt="shouvik78's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shouvik78&show_icons=true&hide_border=false&&theme=radical" />
+<img align="left" alt="shouvik78's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shouvik78&show_icons=true&hide_border=false" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik78&layout=compact)](https://github.com/shouvik78/Face-Detection-website&&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik78&layout=compact)](https://github.com/shouvik78/Face-Detection-website)
 
 

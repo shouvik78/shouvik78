@@ -26,6 +26,6 @@
 ---
 <img align="left" alt="shouvik78's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shouvik78&show_icons=true&hide_border=false" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik78&layout=compact)](https://github.com/shouvik78/Face-Detection-website)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik78&layout=compact)](https://github.com/shouvik78)
 
 
